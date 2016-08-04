@@ -1,3 +1,7 @@
+# TelegramBotTest
+
+This GitHub Project is a groupchat based on the telegram bot api in java (see below).
+
 # Telegram Bot Java Library
 [![Build Status](https://travis-ci.org/rubenlagus/TelegramBotsExample.svg?branch=master)](https://travis-ci.org/rubenlagus/TelegramBotsExample)
 [![Telegram](http://trellobot.doomdns.org/telegrambadge.svg)](https://telegram.me/JavaBotsApi)
